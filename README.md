@@ -1,7 +1,7 @@
 # project-libitina
 A Python `print()` write-up of the Project Libitina text and archive of the website. An external archive is also available at http://archive.is/MNW76.
 
-You can run `projectlibitina.py` in IDLE, Thonny or GNU Bash using `python3 projectlibitina.py`.
+You can run `projectlibitina.py` in Python IDEs such as IDLE or Thonny. Alternatively you can run the script in GNU Bash using `python3 projectlibitina.py`.
 
 If you are in-need of a quick read refer to `projectlibitina.txt`, which has the site's text in plain-text format.
 
