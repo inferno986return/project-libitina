@@ -3,7 +3,7 @@ A Python `print()` write-up of the Project Libitina text and archive of the webs
 
 You can run `projectlibitina.py` in IDLE, Thonny or GNU Bash using `python3 projectlibitina.py`.
 
-If you are in-need of a quick read refer to `projectlibitina.md`, which has the site's text in MarkDown format.
+If you are in-need of a quick read refer to `projectlibitina.txt`, which has the site's text in plain-text format.
 
 ## Licensing
 Entire project is copyright Dan Salvato and his company Team Salvato. My code is Creative Commons 0 (CC0).
