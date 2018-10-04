@@ -1,5 +1,5 @@
 # project-libitina
-A Python `print()` write-up of the Project Libitina text and archive of the website. An external archive is also available at http://archive.is/MNW76.
+A Python `print()` write-up of the Project Libitina text and archive of the website from http://projectlibitina.com/. An external archive is also available at http://archive.is/MNW76.
 
 You can run `projectlibitina.py` in Python IDEs such as IDLE or Thonny. Alternatively you can run the script in GNU Bash using `python3 projectlibitina.py`.
 
